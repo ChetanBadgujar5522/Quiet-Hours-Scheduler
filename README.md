@@ -124,6 +124,7 @@ This is the most critical step. Your app will not run without a correctly config
 
 ## 📁 Project Structure
 
+```
 .
 ├── components/
 │   ├── icons/                # Reusable SVG icon components
@@ -137,3 +138,4 @@ This is the most critical step. Your app will not run without a correctly config
 ├── index.tsx                 # Renders the React app into the DOM
 ├── metadata.json             # Application metadata
 └── types.ts                  # Shared TypeScript interfaces
+```
