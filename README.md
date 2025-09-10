@@ -99,14 +99,7 @@ This is the most critical step. Your app will not run without a correctly config
 
 - Clone the repository or download the files.
 - Open `App.tsx`.
-- Replace:
 
-    ```ts
-    const SUPABASE_URL = "YOUR_SUPABASE_URL";
-    const SUPABASE_ANON_KEY = "YOUR_SUPABASE_ANON_KEY";
-    ```
-
-    with your actual Supabase credentials.
 
 ### 4️⃣ Run the Application
 
