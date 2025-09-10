@@ -1,0 +1,5 @@
+{
+  "name": "Quiet Hours Scheduler",
+  "description": "An application for authenticated users to create silent-study time blocks. The app simulates email notifications by displaying an alert 10 minutes before a block starts.",
+  "requestFramePermissions": []
+}
